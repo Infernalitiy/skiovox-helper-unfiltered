@@ -1,6 +1,6 @@
 {
   "manifest_version": 2,
-  "version": "2.4.1",
+  "version": "2.5",
   "name": "Skiovox Helper",
   "description": "A helper for the Skiovox exploit -- read more at skiovox.com",
   "icons": {
@@ -87,7 +87,7 @@
     "tabs",
     "sessions",
     "<all_urls>",
-    "system.audio"
+    "audio"
   ],
   "content_scripts": [
     {
